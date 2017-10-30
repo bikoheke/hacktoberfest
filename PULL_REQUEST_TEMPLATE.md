@@ -12,7 +12,7 @@ Your ending script file should look something like this:
 
 console.log("Hello World") 
 ```
-Do NOT make your file like this
+Do not make your file like this
 ```
 console.log("Hello World")
 ```
